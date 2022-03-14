@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fromwindowstolinux
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Python Flask & Django
-- 💞️ I’m looking for guidance on Data Manipulation
+- 💞️ I’m looking for guidance on ETL
 - 📫 How to reach me https://www.linkedin.com/in/miyamotonagi/
